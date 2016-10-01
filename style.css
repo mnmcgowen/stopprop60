@@ -10,3 +10,18 @@
     color: #fff;
 }
 
+#overlayBody {
+    width: 80%;
+    height: 80%;
+    margin: auto;
+}
+
+#overlayImg {
+    padding: 20px;
+}
+
+#overlayTxt {
+    padding: 20px;
+    font-family: sans-serif;
+    color: #50c0f0;
+}
